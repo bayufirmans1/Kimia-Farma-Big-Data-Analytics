@@ -19,3 +19,5 @@ This project analyzes Kimia Farma’s sales and business performance using trans
  **Looker Studio Dashboard**  
 
 https://lookerstudio.google.com/u/3/reporting/0f003efb-7294-41dd-880d-485dac913e9d/page/6ZujF
+
+![Dashboard Performance Analytics](Dashboard%20Performance%20Analytics.png)
